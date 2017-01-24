@@ -199,6 +199,7 @@
 				TargetAttributes = {
 					7EDA3ECC1E3595C9006CB416 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = R9LM578C3N;
 						ProvisioningStyle = Automatic;
 					};
 					7EDA3EE31E3595C9006CB416 = {
@@ -420,6 +421,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R9LM578C3N;
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cameron.TipCalculator;
@@ -432,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R9LM578C3N;
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cameron.TipCalculator;
@@ -513,6 +516,7 @@
 				7EDA3EFA1E3595C9006CB416 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7EDA3EFB1E3595C9006CB416 /* Build configuration list for PBXNativeTarget "TipCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +525,7 @@
 				7EDA3EFD1E3595C9006CB416 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7EDA3EFE1E3595C9006CB416 /* Build configuration list for PBXNativeTarget "TipCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -529,6 +534,7 @@
 				7EDA3F001E3595C9006CB416 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
